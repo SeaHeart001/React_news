@@ -1,0 +1,44 @@
+.newsContainer{
+    margin-top: 15px;
+}
+
+.leftContainer1{
+    width:400px;
+    float: left;
+}
+
+.news_tab{
+    float: left;
+    width:450px;
+    margin-left: 10px;
+}
+
+.news_tab a{
+    display: block;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color:#666;
+}
+.news_product{
+    width:280px;
+    float: left;
+    margin-left: 10px;
+
+}
+.pro_bg{
+    background: #eeeeee;
+    margin-top: 10px;
+}
+.pro{
+    padding:5px;
+    overflow: hidden;
+}
+
+.pro a{
+    float: left;
+    line-height: 30px;
+    margin-right:5px;
+}
+
